@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.ecabrerar.examples.javaee7.booklibrary.jaxb;
+package de.booklibrary.jaxb;
 
 import java.util.ArrayList;
 import java.util.Collection;

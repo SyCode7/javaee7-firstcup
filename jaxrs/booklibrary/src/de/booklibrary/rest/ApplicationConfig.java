@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.ecabrerar.examples.javaee7.booklibrary.rest;
+package de.booklibrary.rest;
 
 import java.util.Set;
 import javax.ws.rs.core.Application;

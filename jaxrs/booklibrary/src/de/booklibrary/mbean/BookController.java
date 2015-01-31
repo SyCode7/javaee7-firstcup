@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.ecabrerar.examples.javaee7.booklibrary.mbean;
+package de.booklibrary.mbean;
 
 import java.util.ArrayList;
 import java.util.List;

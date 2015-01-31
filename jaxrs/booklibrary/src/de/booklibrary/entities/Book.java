@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.ecabrerar.examples.javaee7.booklibrary.entities;
+package de.booklibrary.entities;
 
 import java.io.Serializable;
 import javax.persistence.Basic;

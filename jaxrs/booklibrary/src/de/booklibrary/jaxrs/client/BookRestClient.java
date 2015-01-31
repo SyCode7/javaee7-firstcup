@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.ecabrerar.examples.javaee7.booklibrary.jaxrs.client;
+package de.booklibrary.jaxrs.client;
 
 import java.net.URI;
 import java.util.List;
